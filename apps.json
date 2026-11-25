@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pub_rootchecker_1",
+    "name": "RootChecker",
+    "category": "أمان",
+    "version": "2.0",
+    "size": "6.5 MB",
+    "description": "أداة فحص حالة الروت وفحص التطبيقات المثبتة مع دليل تعليمي متكامل.",
+    "iconUrl": "",
+    "apkUrl": "https://github.com/anamhudaifh-debug/ministore-catalog/releases/download/v2.0/rootchecker.apk",
+    "packageName": "com.hudaifh.rootchecker",
+    "publisherName": "anamhudaifh-debug",
+    "screenshots": [],
+    "comments": []
+  }
+]
